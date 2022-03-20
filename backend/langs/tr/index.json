@@ -1,0 +1,41 @@
+{
+  "locale": "tr",
+  "iso": "tr",
+  "label": "Turkish",
+ "text-404": "Bulunamadı",
+  "text-500": "Sunucu Hatası : Hata Kodu 500",
+  "text-403": "Izinsiz Erişim ! Lütfen Giriş Yapın",
+  "api-error": "Greesy API Hatası",
+      "manage_guild": "Sunucuyu Yönet",
+    "select_guild": "Sunucu Seç",
+    "permission_denied": "Geçersiz Yetki ",
+    "button-save": "Kaydet",
+    "button-remove": "Sil",
+    "button-cancel": "Iptal Et",
+    "permission_owner": "Bu Işlemi Yapa Bilmek Için SUNUCU_SAHIPI Olmalısın",
+    "kick_greesy": "Greesy'i Sunucudan At",
+    "music": "Müzik",
+    "moderation": "Moderasyon",
+    "dashboard": "Kontrol Paneli",
+    "level": "Seviye",
+    "button-manage": "Yönet",
+    "button-botadd": "Botu Ekle",
+    "message-success": "Işlem Başarılı ! Ayarlarlamalar Kaydedildi",
+    "message-unsuccess": "Işlem Başarısız ! Lütfen Doğrululuğu Kontrol Ediniz",
+      "title": "Greesy",
+    "description": "Greesy Çok Kullanışlı , Gelişmiş Discord Botu ",
+    "buttom-login": "Giriş Yap",
+    "button-dashboard": "Kontrol Paneli",
+  "home": "Anasayfa",
+    "commands": "Komutlar",
+    "premium": "Premium",
+    "login": "Giriş Yap",
+    "user-panel": "Kullanıcı Paneli",
+    "promocode": "Promosyon Kodu",
+    "dashboard": "Kontrol Paneli",
+    "logout": "Çıkış Yap"
+
+    
+  
+ 
+}
