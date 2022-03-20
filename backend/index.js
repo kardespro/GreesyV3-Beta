@@ -60,8 +60,8 @@ app.use(require('cors')({
 
 //Country Blocker
 function defender(req,res){
- /* let blacks = access_black.blacklist_ip;*/
-  let blacks = "217.47.139.59"
+  let blacks = access_black.blacklist_ip;
+  //let blacks = "
   let acceser_ip = req.headers["x-forwarded-for"];
   //if(access_black.blacklist_ip.includes(acceser_ip)) 
   if(acceser_ip === blacks) return res.json({success:false,message:"This Country Has Been Banned From Greesy API . info@greesy.fun"})
