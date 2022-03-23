@@ -386,7 +386,7 @@ app.get("/api/v1/guilds/:gid", (req,res) => {
 app.use((req, res, next) => {
   res.status(404).json({success:false,message: "Access Denied"})
 })
-client.login("Token Here") /= Api Bot Token Here
+client.login("Token Here") // Api Bot Token Here
 gClient.login(settings.botToken)
 
 client.on("ready", ()=> {
